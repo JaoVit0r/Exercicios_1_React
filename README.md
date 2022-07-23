@@ -1,6 +1,6 @@
 # Exercicios_1_React
 
-Lista de exercícios referente ao módulo de React, do programa Vem Ser Tech, constituída de 3 exercícios:
+Lista de exercícios referente ao módulo de React, do programa Vem Ser Tech do Ifood, em parceria com a Let'Code, constituída de 3 exercícios:
 ## Exercício 1
 
 Criar interface para auxiliar professor a sortear quem vai responder na sala de aula. App tem que mostrar uma lista de alunos que ainda não respondeu, lista dos que já responderam, e botão que sorteie e remova aluno da primeira lista e adicione na segunda. Caso já tenha sorteado todos alunos, mostrar mensagem abaixo do botão avisando que não há mais alunos para sortear.
